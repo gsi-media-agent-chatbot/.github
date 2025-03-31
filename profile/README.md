@@ -1,12 +1,10 @@
-## Hi there 👋
+# GSI Media Agent ChatBot
 
-<!--
+🎯 멀티 모듈 기반의 AI 챗봇 프로젝트
 
-**Here are some ideas to get you started:**
+## 🔧 구성 레포지토리
+- [gsi-agent-backend](https://github.com/gsi-media-agent-chatbot/gsi-agent-backend): Kotlin + Spring Boot API 서버
+- [gsi-agent-frontend](https://github.com/gsi-media-agent-chatbot/gsi-agent-frontend): React 기반 프론트엔드
+- [gsi-agent-ai](https://github.com/gsi-media-agent-chatbot/gsi-agent-ai): Python FastAPI 기반 AI 서버
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📌 개발 조직: 
